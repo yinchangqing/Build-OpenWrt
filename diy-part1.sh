@@ -16,4 +16,4 @@
 
 git clone https://github.com/vernesong/OpenClash -b master
 cd OpenClash
-cp -r luci-app-openclash/ /workdir/openwrt/packge/diy
+cp -r luci-app-openclash/ packge/diy
