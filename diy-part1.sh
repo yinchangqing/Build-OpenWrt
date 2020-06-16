@@ -17,3 +17,6 @@
 git clone https://github.com/vernesong/OpenClash -b master
 cd OpenClash
 cp -r luci-app-openclash/ $GITHUB_WORKSPACE/openwrt/package/diy/
+
+cd $GITHUB_WORKSPACE/openwrt/package/diy/
+git clone https://github.com/tty228/luci-app-serverchan
